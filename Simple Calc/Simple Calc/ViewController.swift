@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  simple-calc-iOS
+//  Simple Calc
 //
 //  Created by AT on 10/24/17.
 //  Copyright © 2017 AT. All rights reserved.

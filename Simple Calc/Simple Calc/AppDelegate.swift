@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Simple Calc
 //
-//  Created by AT on 10/26/17.
+//  Created by AT on 10/24/17.
 //  Copyright © 2017 AT. All rights reserved.
 //
 
